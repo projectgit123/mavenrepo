@@ -1,4 +1,4 @@
-def tomcat = "18.221.14.105"
+def tomcat = "18.222.255.47"
 pipeline{
 	agent { label 'dev' }
 	stages{
